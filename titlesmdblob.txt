@@ -1,0 +1,6 @@
+tree 37712fab0aa902b37e2197ebb71e4e1ba4f45f3d
+parent 585610446e42402754da4663833447dfdd8c08a2
+author kamil13-cyber <chojnygrind13@gmail.com> 1776936957 +0200
+committer kamil13-cyber <chojnygrind13@gmail.com> 1776936957 +0200
+
+B: add titles
